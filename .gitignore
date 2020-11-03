@@ -5,6 +5,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Visual Studio
+.vscode/
+
+# mochawesome-report
+mochawesome-report/
+
 # Runtime data
 pids
 *.pid
